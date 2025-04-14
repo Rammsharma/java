@@ -4,7 +4,7 @@ public class Array_Name_founder {
     {
 
         Scanner sc=new Scanner(System.in);
-        System.out.println("ENTER SIZE:");
+        System.out.println("ENTER SIZE:"):
         int size=sc.nextInt();
         String name[]=new String[size];
 
